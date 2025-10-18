@@ -555,7 +555,7 @@ section {
     margin-bottom: 0.5rem;
 }
 
-.timeline-item p {
+.timeline-item ul li {
     color: var(--text-muted);
 }
 
